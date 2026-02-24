@@ -19,7 +19,7 @@ This project is a bot that utilizes the Gemini API for AI interactions.
 
 3. **Clone the Repository:**
    ```bash
-   git clone https://github.com/dheeraj-sain/Gemini-Bot.git
+   git clone https://github.com/yogeshraheja/Gemini-Bot.git
    cd Gemini-Bot/
 
 ## Install Python Dependencies
